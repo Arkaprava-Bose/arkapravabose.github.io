@@ -5,7 +5,7 @@ permalink: /projects/
 description: This page contains the list of completed and on-going projects 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [on-going , completed]
 horizontal: false
 ---
 
